@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('⭕️ ႮᏢᎠᎪͲᎬՏ ⭕️', url='https://t.me/MrJOKERgroup')
+                InlineKeyboardButton('💠ႮᏢᎠᎪͲᎬՏ', url='https://t.me/MrJOKERgroup')
             ],
             [
                 InlineKeyboardButton('🛠️ ᎻᎬᏞᏢ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,13 +45,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏟᎻᎪͲ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⭕️ ᎻᎬᏞᏢ', callback_data='help'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ ⭕️', callback_data='about')
+            InlineKeyboardButton('💖 ᎻᎬᏞᏢ', callback_data='help'),
+            InlineKeyboardButton('ᎪᏴϴႮͲ 🤗', callback_data='about')
             ],[
             InlineKeyboardButton('🕵️ ՏᎬᎪᎡᏟᎻ ᎻᎬᎡᎬ ᎷϴᏙᏆᎬ 🕵️', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('⭕️ ႮᏢᎠᎪͲᎬՏ', url='https://t.me/josprojects'),
-            InlineKeyboardButton('ᎷϴᏙᏆᎬ ᏟᏞႮᏴ ⭕️', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('💠 ႮᏢᎠᎪͲᎬՏ', url='https://t.me/josprojects'),
+            InlineKeyboardButton('ᎷϴᏙᏆᎬ ᏟᏞႮᏴ 🎥', url='https://t.me/+y53tWFUw6Q43NzE9')
             ],[
             InlineKeyboardButton('❌ ᏟᏞϴՏᎬ ͲᎻᎬ ᎷᎬΝႮ ❌', callback_data='close_data')
         ]]
@@ -93,13 +93,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏟᎻᎪͲ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⭕️ ᎻᎬᏞᏢ', callback_data='help'),
-            InlineKeyboardButton('ᎪᏴϴႮͲ ⭕️', callback_data='about')
+            InlineKeyboardButton('💖 ᎻᎬᏞᏢ', callback_data='help'),
+            InlineKeyboardButton('ᎪᏴϴႮͲ 🤗', callback_data='about')
             ],[
             InlineKeyboardButton('🕵️ ՏᎬᎪᎡᏟᎻ ᎻᎬᎡᎬ ᎷϴᏙᏆᎬ 🕵️', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('⭕️ ႮᏢᎠᎪͲᎬՏ', url='https://t.me/josprojects'),
-            InlineKeyboardButton('ᎷϴᏙᏆᎬ ᏟᏞႮᏴ ⭕️', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('💠 ႮᏢᎠᎪͲᎬՏ', url='https://t.me/josprojects'),
+            InlineKeyboardButton('ᎷϴᏙᏆᎬ ᏟᏞႮᏴ 🎥', url='https://t.me/+y53tWFUw6Q43NzE9')
             ],[
             InlineKeyboardButton('❌ ᏟᏞϴՏᎬ ͲᎻᎬ ᎷᎬΝႮ ❌', callback_data='close_data')
         ]]
@@ -250,8 +250,8 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('⭕️ ՏႮᏢᏢϴᎡͲ', url='https://t.me/MrJOKERgroup'),
-            InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ ⭕️', url='https://t.me/mrJOKERCHANNEL')
+            InlineKeyboardButton('💖 ՏႮᏢᏢϴᎡͲ', url='https://t.me/MrJOKERgroup'),
+            InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ 🎀', url='https://t.me/mrJOKERCHANNEL')
         ],
         [
             InlineKeyboardButton('🎬 ՏᎬᎡᏆᎬՏ ᎪΝᎠ ᎷϴᏙᏆᎬ ᏟᏞႮᏴ 🎬', url=f'https://t.me/mrJOKERCHANNEL')
