@@ -21,10 +21,10 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 MR.JOKER is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/BalamuruganDV/MR-JOKER'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/MrJOKERgroup'>MR.JOKER DEV</a>
 
 <b>SUPPORT GROUP</b>
 - <a href='https://t.me/MrJOKERgroup'>MR.JOKER support</a>"""
