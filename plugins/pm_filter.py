@@ -437,7 +437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton('💖ՏႮᏢᏢϴᎡͲ', url='https://t.me/MrJOKERgroup')
-                InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ🎀', url='https://t.me/MrJOKERgroup')
+                InlineKeyboardButton('ᏟᎻᎪΝΝᎬᏞ', url='https://t.me/MrJOKERgroup')
             ],
             [
                 InlineKeyboardButton('🎬 ՏᎬᎡᏆᎬՏ ᎪΝᎠ ᎷϴᏙᏆᎬ ᏟᏞႮᏴ 🎬', url=f'https://t.me/mrJOKERCHANNEL')
